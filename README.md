@@ -1,4 +1,3 @@
-# ecological-niche-modeling
 # Ecological Niche & Spatial Invasion Risk Modeling of *Aedes albopictus* in Turkey
 
 This repository contains the end-to-end computational pipeline developed for my undergraduate graduation thesis in Molecular Biology and Genetics at Istanbul Technical University (ITU).
